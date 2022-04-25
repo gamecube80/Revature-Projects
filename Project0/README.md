@@ -25,6 +25,10 @@ Scala file to run CRUD commands through a postgresql database
  * Add user created inputs instead of hard coded inputs
  * Greate GUI for program
 
+## Getting Started
+
+git cone https://github.com/gamecube80/Revature-Projects/tree/main/Project0.git
+
 ## Usage
 Clone and run the project
 
