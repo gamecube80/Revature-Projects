@@ -27,7 +27,7 @@ Scala file to run CRUD commands through a postgresql database
 
 ## Getting Started
 
-git cone https://github.com/gamecube80/Revature-Projects/tree/main/Project0.git
+git cone https://github.com/gamecube80/Revature-Projects/tree/main/Project0
 
 ## Usage
 Clone and run the project
