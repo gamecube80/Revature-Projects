@@ -9,10 +9,11 @@ Each different querie has at least 1 user defined variable.
 This allows the user to get many different search results depeinding on what they want to find.
 
 ## Technology Used
-* Scala 2.13.8
-* Sbt 1.6.2
-* Ambari 2.7
-* Hortonworks Sandbox 3.0.1
+* Scala - version 2.13.8
+* Sbt - version 1.6.2
+* Ambari - version 2.7
+* Hortonworks Sandbox - version 3.0.1
+* Hadoop
 * HDFS
 * YARN
 * Hive
