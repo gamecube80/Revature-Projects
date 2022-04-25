@@ -46,4 +46,4 @@ Input user entered parameter and hit enter to receive query
 * Alex Smith
 
 ## License
-This project uses the following license: Creative Commons Attribution ShareAlike 4.0 License.
+This project uses the following license: MIT License
