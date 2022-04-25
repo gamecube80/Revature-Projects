@@ -37,7 +37,8 @@ Clone and run the project
 Type help for list of commands
 Input user entered parameter and hit enter to receive query
 
-> Needs 
+> Needs sbt and scala installed on your system
+> Need to install and run ambari sandbox and import the dataset into your hive to run queries
 
 ## Contributors
 * Daniel Hoelzel
